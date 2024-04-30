@@ -25,9 +25,9 @@ class calculator {
 public class methodOverloading {
     public static void main(String[] args) {
         calculator c = new calculator();
-        System.out.println("2 arguments same datatype: "+ c.add(10,20));
-        System.out.println("3 arguments same datatype: "+ c.add(10,20,30));
-        System.out.println("3 arguments different datatype: "+ c.add(10,2.5f,20));
-        System.out.println("2 arguments different datatype: "+ c.add(5.5f,10.5f));
+        System.out.println(c.add(10,20));
+        System.out.println(c.add(10,20,30));
+        System.out.println(c.add(10,2.5f,20));
+        System.out.println(c.add(5.5f,10.5f));
     }    
 }
