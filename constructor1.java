@@ -18,7 +18,6 @@ public class constructor1 {
         System.out.println(c.mul(1,2));
         System.out.println(c.mul(2, 2, 2));
         System.out.println(c.mul(2, 1.2f, 2));
-        
         System.out.println(c.mul(1.5f, 1.5f));
     }
     
