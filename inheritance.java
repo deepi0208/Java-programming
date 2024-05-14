@@ -53,6 +53,5 @@ public class inheritance {
 
         o.display();
         o.sound();
-    }
-    
+    }   
 }
