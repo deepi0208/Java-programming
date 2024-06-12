@@ -1,0 +1,28 @@
+22/5/24
+
+Multi Threading:
+------------------------
+Thread->Unit of Execution
+      ->Independent
+
+Multithreading in java is a process of executing Multiple threads simultaneously.
+In Multithreading  we can call multiple methods at a time./
+
+MultiTasking:
+-------------------
+  1.Process Based Multitaking (Multi processing)
+  2.Thread Based Multitasking (Multi Threading)
+
+Multiprocessing                             Multithreading
+-----------------------                              ----------------------
+Heavy wight                                 Light weight
+Seperate address space              same address space
+costly                                             cheaper
+
+lifecycle:
+-----------
+1. New
+2. Active (Running)
+3. Blocked/waiting (Runnable)
+4. Timed waiting (waiting)
+5. Teriminated (Dead)
